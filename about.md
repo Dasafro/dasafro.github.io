@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
