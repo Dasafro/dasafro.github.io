@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+Esta página cuenta un poco más de los trabajos y actividades de investigación realizadas por CSR.
