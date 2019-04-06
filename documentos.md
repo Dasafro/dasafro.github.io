@@ -6,4 +6,4 @@ title: Documentos
 
 # Documentos
 
-En esta pagina encontrará docuentos descargables.
+En esta pagina encontrará documentos descargables.
